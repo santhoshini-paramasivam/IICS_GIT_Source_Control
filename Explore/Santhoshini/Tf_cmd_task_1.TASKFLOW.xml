@@ -13,7 +13,7 @@
       <types1:CreatedBy>Sandy_usw5_SO</types1:CreatedBy>
       <types1:CreationDate>2023-05-05T12:42:08Z</types1:CreationDate>
       <types1:ModifiedBy>Sandy_usw5_SO</types1:ModifiedBy>
-      <types1:ModificationDate>2023-07-06T04:30:48Z</types1:ModificationDate>
+      <types1:ModificationDate>2023-07-06T04:34:45Z</types1:ModificationDate>
       <types1:PublicationStatus>unpublished</types1:PublicationStatus>
       <types1:AutosaveExists>false</types1:AutosaveExists>
       <types1:Entry>
@@ -29,7 +29,7 @@
             <tags/>
             <generator>Informatica Process Designer 11</generator>
             <tempFields>
-               <field description="" name="Command Task 1" type="reference">
+               <field description="" name="CMD_TSK_LATEST" type="reference">
                   <options>
                      <option name="referenceTo">$po:INFA-commandTask</option>
                      <option name="failOnNotRun">false</option>
@@ -47,11 +47,11 @@
                </start>
                <eventContainer id="lhai96r5">
                   <service id="lhai96pu">
-                     <title>Command Task 1</title>
+                     <title>CMD_TSK_LATEST</title>
                      <serviceName>ICSExecuteCommandTask</serviceName>
                      <serviceGUID/>
                      <serviceInput>
-                        <parameter name="Task Name" source="constant">Command Task 1</parameter>
+                        <parameter name="Task Name" source="constant">CMD_TSK_LATEST</parameter>
                         <parameter name="Wait for Task to Complete" source="constant">true</parameter>
                         <parameter name="Runtime Environment" source="constant">01CJ8C25000000000002:san_vm</parameter>
                         <parameter name="Max Wait" source="constant">400</parameter>
@@ -71,17 +71,17 @@
                         </parameter>
                      </serviceInput>
                      <serviceOutput>
-                        <operation source="field" to="temp.Command Task 1/output/Run_Id">Run Id</operation>
-                        <operation source="field" to="temp.Command Task 1/output/Start_Time">Start Time</operation>
-                        <operation source="field" to="temp.Command Task 1/output/End_Time">End Time</operation>
-                        <operation source="field" to="temp.Command Task 1/output/Exit_Code">Exit Code</operation>
-                        <operation source="field" to="temp.Command Task 1/output/Execution_Status">Execution Status</operation>
-                        <operation source="field" to="temp.Command Task 1/output/Std_Error">Std Error</operation>
+                        <operation source="field" to="temp.CMD_TSK_LATEST/output/Run_Id">Run Id</operation>
+                        <operation source="field" to="temp.CMD_TSK_LATEST/output/Start_Time">Start Time</operation>
+                        <operation source="field" to="temp.CMD_TSK_LATEST/output/End_Time">End Time</operation>
+                        <operation source="field" to="temp.CMD_TSK_LATEST/output/Exit_Code">Exit Code</operation>
+                        <operation source="field" to="temp.CMD_TSK_LATEST/output/Execution_Status">Execution Status</operation>
+                        <operation source="field" to="temp.CMD_TSK_LATEST/output/Std_Error">Std Error</operation>
                      </serviceOutput>
                   </service>
                   <link id="lhai96pw" targetId="c"/>
                   <events>
-                     <catch faultField="temp.Command Task 1/fault"
+                     <catch faultField="temp.CMD_TSK_LATEST/fault"
                             id="lhai96r4"
                             interrupting="true"
                             name="error"/>
@@ -115,5 +115,5 @@
       <types1:GUID>aQJpNgmL2xMlP2Gr7RK6kB</types1:GUID>
       <types1:DisplayName>Tf_cmd_task_1</types1:DisplayName>
    </types1:Item>
-   <types1:CurrentServerDateTime>2023-07-06T04:31:51.48Z</types1:CurrentServerDateTime>
+   <types1:CurrentServerDateTime>2023-07-06T04:37:30.031Z</types1:CurrentServerDateTime>
 </aetgt:getResponse>
