@@ -1,0 +1,45 @@
+{
+  "objectInfo" : {
+    "id" : "8s2JygTI132l62LmfQQ5qd",
+    "name" : "Taskflow2",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "vFckSptM9hOznKK-gt-570010-2023-08-23T17:07:51.353Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2023-08-23T17:08:05.975Z",
+  "objectRefs" : [ {
+    "id" : "0RQ6DarnMzAjZFgROg5wYw",
+    "name" : "mt_Simple_mapping_Oracle_1",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CJ8C0Z000000000004"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/SP"
+  } ]
+}
