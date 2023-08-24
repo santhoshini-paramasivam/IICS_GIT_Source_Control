@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "8T12xWC7XAUj8VHghicF6U",
+    "name" : "Folder_mapping",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-08-24T17:23:27.094Z",
+  "objectRefs" : [ ]
+}
