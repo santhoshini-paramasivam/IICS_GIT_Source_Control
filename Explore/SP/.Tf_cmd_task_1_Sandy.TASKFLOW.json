@@ -1,0 +1,45 @@
+{
+  "objectInfo" : {
+    "id" : "8oSAv0IPDC2gt0QEYj5Cwd",
+    "name" : "Tf_cmd_task_1_Sandy",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "abdt5OjiTIKchzt-gt-7504766-2023-08-31T06:45:53.015Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : null,
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2023-08-31T06:55:53.127Z",
+  "objectRefs" : [ {
+    "id" : "3J5LYcEgBiujvMfiUEjaSE",
+    "name" : "san_vm",
+    "type" : "AgentGroup",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CJ8C25000000000002"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/SYS"
+  } ]
+}
