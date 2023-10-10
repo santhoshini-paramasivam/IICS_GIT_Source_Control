@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : "",
+        "description" : "Im editing the description for testing GIT Hash generated",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2023-10-10T09:41:57.342Z",
+  "updateTime" : "2023-10-10T09:43:23.859Z",
   "objectRefs" : [ {
     "id" : "76fb8qJavo2h9wE9kptA0H",
     "name" : "Oracle_varsb",
