@@ -1,0 +1,45 @@
+{
+  "objectInfo" : {
+    "id" : "9wDPT0PRdYMdy2X6rAxG8i",
+    "name" : "Taskflow1",
+    "type" : "TASKFLOW",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "XL86zqzm5Y6tMFy-gt-8271981-2023-12-20T12:12:08.379Z::tf.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "updateTime" : "2023-12-20T12:13:04.084Z",
+  "objectRefs" : [ {
+    "id" : "5adAO7dMAP5kVQPCYPWlCY",
+    "name" : "MappingTask3",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CJ8C0Z00000000000D"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "VALID"
+      }
+    },
+    "path" : "/Explore/Haripriya"
+  } ]
+}
