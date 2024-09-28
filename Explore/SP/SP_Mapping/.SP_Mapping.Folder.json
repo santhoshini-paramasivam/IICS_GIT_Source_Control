@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "6enHfH2SzZSjQj4wOLCJ2T",
+    "name" : "SP_Mapping",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-09-28T16:29:00.953Z",
+  "objectRefs" : [ ]
+}
