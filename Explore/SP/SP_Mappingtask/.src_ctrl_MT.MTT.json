@@ -1,7 +1,7 @@
 {
   "objectInfo" : {
     "id" : "f6GVPwX5eU1fnL9oLsp7OW",
-    "name" : "MappingTask4",
+    "name" : "src_ctrl_MT",
     "type" : "MTT",
     "metadata" : {
       "modelVersion" : {
@@ -23,7 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-09-28T16:29:35.519Z",
+  "updateTime" : "2024-09-28T17:54:55.799Z",
   "objectRefs" : [ {
     "id" : "hNfGSxR7AoflIyjPgo89SN",
     "name" : "Mapping6",
@@ -36,7 +36,10 @@
       "repoInfo" : {
         "repoHandle" : "01CJ8C1700000000000I"
       },
-      "contextAttributes" : null,
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
