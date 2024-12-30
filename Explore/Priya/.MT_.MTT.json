@@ -1,5 +1,30 @@
 {
   "objectInfo" : {
+    "id" : "3U9rrV5DmuOisM1FswIHGp",
+    "name" : "MT_",
+    "type" : "MTT",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "01CJ8C0Z00000000000I"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : null,
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2024-12-30T09:59:32.664Z",
+  "objectRefs" : [ {
     "id" : "i9xB7sodVEieTNCh8o3wa2",
     "name" : "srcctrl_mapping",
     "type" : "DTEMPLATE",
@@ -20,11 +45,9 @@
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
-    }
-  },
-  "dataFileExtension" : "zip",
-  "updateTime" : "2024-12-30T09:59:32.663Z",
-  "objectRefs" : [ {
+    },
+    "path" : "/Explore/Priya"
+  }, {
     "id" : "5ou32Zx7JaXkqKkvWzWtEJ",
     "name" : "SP_Flatfile",
     "type" : "Connection",

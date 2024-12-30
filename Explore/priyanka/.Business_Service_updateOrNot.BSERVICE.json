@@ -1,19 +1,25 @@
 {
   "objectInfo" : {
-    "id" : "i9xB7sodVEieTNCh8o3wa2",
-    "name" : "srcctrl_mapping",
-    "type" : "DTEMPLATE",
+    "id" : "2XjV096wkcVks0hNXhT3AX",
+    "name" : "Business_Service_updateOrNot",
+    "type" : "BSERVICE",
     "metadata" : {
       "modelVersion" : {
         "major" : 0,
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01CJ8C1700000000000J"
+        "repoHandle" : "01CJ8C27000000000002"
       },
       "contextAttributes" : [ {
         "name" : "id",
         "value" : "@1"
+      }, {
+        "name" : "01CJ8C28000000000003",
+        "value" : "2XjV096wkcVks0hNXhT3AX@Get_Employee2"
+      }, {
+        "name" : "01CJ8C28000000000002",
+        "value" : "2XjV096wkcVks0hNXhT3AX@Get_Employee"
       } ],
       "additionalInfo" : {
         "description" : "",
@@ -23,10 +29,10 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-12-30T09:59:32.663Z",
+  "updateTime" : "2024-12-30T09:59:32.662Z",
   "objectRefs" : [ {
-    "id" : "5ou32Zx7JaXkqKkvWzWtEJ",
-    "name" : "SP_Flatfile",
+    "id" : "51nSLy7y9uCd45Sskjq9GI",
+    "name" : "Priyanka_linVM_WorkdayV2",
     "type" : "Connection",
     "metadata" : {
       "modelVersion" : {
@@ -34,7 +40,7 @@
         "minor" : 0
       },
       "repoInfo" : {
-        "repoHandle" : "01CJ8C0B000000000006"
+        "repoHandle" : "01CJ8C0B000000000004"
       },
       "contextAttributes" : null,
       "additionalInfo" : {
