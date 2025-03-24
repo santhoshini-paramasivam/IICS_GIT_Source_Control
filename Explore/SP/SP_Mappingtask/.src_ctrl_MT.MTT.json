@@ -16,14 +16,14 @@
         "value" : "@1"
       } ],
       "additionalInfo" : {
-        "description" : null,
+        "description" : "Desc added on 24 March 2025",
         "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-09-28T17:54:55.799Z",
+  "updateTime" : "2025-03-24T06:22:43.532Z",
   "objectRefs" : [ {
     "id" : "hNfGSxR7AoflIyjPgo89SN",
     "name" : "Mapping6",
@@ -36,10 +36,7 @@
       "repoInfo" : {
         "repoHandle" : "01CJ8C1700000000000I"
       },
-      "contextAttributes" : [ {
-        "name" : "id",
-        "value" : "@1"
-      } ],
+      "contextAttributes" : null,
       "additionalInfo" : {
         "description" : "",
         "contentType" : "JSON",
@@ -87,5 +84,7 @@
       }
     },
     "path" : "/SYS"
-  } ]
+  } ],
+  "readableFileExtension" : null,
+  "readableFilePresent" : false
 }
